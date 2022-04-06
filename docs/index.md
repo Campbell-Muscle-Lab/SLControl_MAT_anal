@@ -21,4 +21,4 @@ Read through:
 
 
 Then try:
-+ [demo_analyze_folders](pages/demos/analyze_folders/analyze_folders)
++ [demo_analyze_folders](pages/demos/analyze_folders/analyze_folders.html)
